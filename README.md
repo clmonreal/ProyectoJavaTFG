@@ -4,7 +4,7 @@ El presente trabajo, fué mi Proyecto Final de Grado realizado en la Universidad
 
 El objetivo del proyecto se centraba en mejorar las dinámicas de vuelo del avión y mostrar por pantalla la situación en tiempo real de este, así como crear varias funcionalidades para modificar y visualizar mejor las trazas del vuelo.
 
-Si quieres saber más sobre el proyecto, adjunto la memoria en pdf.
+Si quieres saber más sobre el proyecto, adjunto también mi [**Trabajo Fin de Grado**](https://github.com/clmonreal/ProyectoJavaTFG/blob/main/Trabajo%20Fin%20de%20Grado.pdf) como PDF.
 
 ### Imágenes del resultado final
 
