@@ -14,7 +14,7 @@ Si quieres saber más sobre el proyecto, adjunto la memoria en pdf.
 ![image.png](img/image4.png)
 
 # Tecnologías utilizadas
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ## Mi nombre es Carlos López 👋🏾
 ### Software Developer
